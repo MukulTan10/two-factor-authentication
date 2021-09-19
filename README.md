@@ -11,7 +11,7 @@ Two Factor Authentication or 2-Step Verification provides stronger security for 
 
 ## Requirements
 
-- PHP >= 7.1 c
+- PHP >= 7.1
 - Laravel >= 5.3
 - Google Authenticator [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en) - [iOS](https://itunes.apple.com/in/app/google-authenticator/id388497605?mt=8) (Recommended) or [Authy](https://www.authy.com/) mobile app
 
